@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DataStructures
+namespace Reactive
 {
     public sealed class PriorityQueue<T> where T : IComparable<T>
     {
